@@ -1,0 +1,26 @@
+{
+  "name": "projeto-disney-clone-ebac",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "build": "gulp",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gabsdev09/projeto-disney-clone-ebac.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gabsdev09/projeto-disney-clone-ebac/issues"
+  },
+  "homepage": "https://github.com/gabsdev09/projeto-disney-clone-ebac#readme",
+  "description": "",
+  "devDependencies": {
+    "gulp": "^5.0.1",
+    "gulp-sass": "^6.0.1",
+    "sass": "^1.97.3"
+  }
+}
